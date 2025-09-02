@@ -1,0 +1,175 @@
+=== LOCALIDADES BRASILEIRAS ===
+
+ESTADOS DO BRASIL:
+
+Estado: Rondônia (RO)
+Código IBGE: 11
+Região: Norte (N)
+
+Estado: Acre (AC)
+Código IBGE: 12
+Região: Norte (N)
+
+Estado: Amazonas (AM)
+Código IBGE: 13
+Região: Norte (N)
+
+Estado: Roraima (RR)
+Código IBGE: 14
+Região: Norte (N)
+
+Estado: Pará (PA)
+Código IBGE: 15
+Região: Norte (N)
+
+Estado: Amapá (AP)
+Código IBGE: 16
+Região: Norte (N)
+
+Estado: Tocantins (TO)
+Código IBGE: 17
+Região: Norte (N)
+
+Estado: Maranhão (MA)
+Código IBGE: 21
+Região: Nordeste (NE)
+
+Estado: Piauí (PI)
+Código IBGE: 22
+Região: Nordeste (NE)
+
+Estado: Ceará (CE)
+Código IBGE: 23
+Região: Nordeste (NE)
+
+Estado: Rio Grande do Norte (RN)
+Código IBGE: 24
+Região: Nordeste (NE)
+
+Estado: Paraíba (PB)
+Código IBGE: 25
+Região: Nordeste (NE)
+
+Estado: Pernambuco (PE)
+Código IBGE: 26
+Região: Nordeste (NE)
+
+Estado: Alagoas (AL)
+Código IBGE: 27
+Região: Nordeste (NE)
+
+Estado: Sergipe (SE)
+Código IBGE: 28
+Região: Nordeste (NE)
+
+Estado: Bahia (BA)
+Código IBGE: 29
+Região: Nordeste (NE)
+
+Estado: Minas Gerais (MG)
+Código IBGE: 31
+Região: Sudeste (SE)
+
+Estado: Espírito Santo (ES)
+Código IBGE: 32
+Região: Sudeste (SE)
+
+Estado: Rio de Janeiro (RJ)
+Código IBGE: 33
+Região: Sudeste (SE)
+
+Estado: São Paulo (SP)
+Código IBGE: 35
+Região: Sudeste (SE)
+
+Estado: Paraná (PR)
+Código IBGE: 41
+Região: Sul (S)
+
+Estado: Santa Catarina (SC)
+Código IBGE: 42
+Região: Sul (S)
+
+Estado: Rio Grande do Sul (RS)
+Código IBGE: 43
+Região: Sul (S)
+
+Estado: Mato Grosso do Sul (MS)
+Código IBGE: 50
+Região: Centro-Oeste (CO)
+
+Estado: Mato Grosso (MT)
+Código IBGE: 51
+Região: Centro-Oeste (CO)
+
+Estado: Goiás (GO)
+Código IBGE: 52
+Região: Centro-Oeste (CO)
+
+Estado: Distrito Federal (DF)
+Código IBGE: 53
+Região: Centro-Oeste (CO)
+
+
+MUNICÍPIOS PRINCIPAIS:
+
+Municípios de Rondônia:
+  - Alta Floresta D'Oeste (Código: 1100015)
+  - Ariquemes (Código: 1100023)
+  - Cabixi (Código: 1100031)
+  - Cacoal (Código: 1100049)
+  - Cerejeiras (Código: 1100056)
+  - Colorado do Oeste (Código: 1100064)
+  - Corumbiara (Código: 1100072)
+  - Costa Marques (Código: 1100080)
+  - Espigão D'Oeste (Código: 1100098)
+  - Guajará-Mirim (Código: 1100106)
+
+Municípios de Acre:
+  - Acrelândia (Código: 1200013)
+  - Assis Brasil (Código: 1200054)
+  - Brasiléia (Código: 1200104)
+  - Bujari (Código: 1200138)
+  - Capixaba (Código: 1200179)
+  - Cruzeiro do Sul (Código: 1200203)
+  - Epitaciolândia (Código: 1200252)
+  - Feijó (Código: 1200302)
+  - Jordão (Código: 1200328)
+  - Mâncio Lima (Código: 1200336)
+
+Municípios de Amazonas:
+  - Alvarães (Código: 1300029)
+  - Amaturá (Código: 1300060)
+  - Anamã (Código: 1300086)
+  - Anori (Código: 1300102)
+  - Apuí (Código: 1300144)
+  - Atalaia do Norte (Código: 1300201)
+  - Autazes (Código: 1300300)
+  - Barcelos (Código: 1300409)
+  - Barreirinha (Código: 1300508)
+  - Benjamin Constant (Código: 1300607)
+
+Municípios de Roraima:
+  - Amajari (Código: 1400027)
+  - Alto Alegre (Código: 1400050)
+  - Boa Vista (Código: 1400100)
+  - Bonfim (Código: 1400159)
+  - Cantá (Código: 1400175)
+  - Caracaraí (Código: 1400209)
+  - Caroebe (Código: 1400233)
+  - Iracema (Código: 1400282)
+  - Mucajaí (Código: 1400308)
+  - Normandia (Código: 1400407)
+
+Municípios de Pará:
+  - Abaetetuba (Código: 1500107)
+  - Abel Figueiredo (Código: 1500131)
+  - Acará (Código: 1500206)
+  - Afuá (Código: 1500305)
+  - Água Azul do Norte (Código: 1500347)
+  - Alenquer (Código: 1500404)
+  - Almeirim (Código: 1500503)
+  - Altamira (Código: 1500602)
+  - Anajás (Código: 1500701)
+  - Ananindeua (Código: 1500800)
+
