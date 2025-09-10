@@ -1,0 +1,44 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "BedrockInvoke",
+      "Effect": "Allow",
+      "Action": [
+        "bedrock:InvokeModel",
+        "bedrock:InvokeModelWithResponseStream"
+      ],
+      "Resource": "*"
+    },
+    {
+      "Sid": "S3Access", 
+      "Effect": "Allow",
+      "Action": [
+        "s3:GetObject",
+        "s3:PutObject",
+        "s3:DeleteObject"
+      ],
+      "Resource": [
+        "arn:aws:s3:::document-validation-poc/*"
+      ]
+    },
+    {
+      "Sid": "TextractAccess",
+      "Effect": "Allow", 
+      "Action": [
+        "textract:AnalyzeDocument",
+        "textract:DetectDocumentText"
+      ],
+      "Resource": "*"
+    },
+    {
+      "Sid": "RekognitionAccess",
+      "Effect": "Allow",
+      "Action": [
+        "rekognition:CompareFaces",
+        "rekognition:DetectFaces" 
+      ],
+      "Resource": "*"
+    }
+  ]
+}
